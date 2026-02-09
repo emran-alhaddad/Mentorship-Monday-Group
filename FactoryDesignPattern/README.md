@@ -1,0 +1,2 @@
+# Purpose of the repo 
+Implement Factory Method as you are building a notification system , depending on the notifcation type ( Email,SMS,PUSH) the system should send the notification in different ways , use the factory method pattern so your client code is decoupled from the concrete notification sender 
